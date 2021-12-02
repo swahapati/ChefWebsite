@@ -1,2 +1,2 @@
 # ChefWebsite
-This repository contains the code, CSS and HTML resources for a Chef Website
+This repository contains the HTML, CSS code and resources for a fictitious chef's recipe website.
